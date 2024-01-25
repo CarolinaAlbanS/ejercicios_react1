@@ -1,0 +1,13 @@
+.header{
+    display: flex;
+}
+
+.logo{
+    max-width: 100%;
+    img{
+        width: 40%;
+    }
+}
+.enlaces{
+    display: flex;
+}
